@@ -4,4 +4,4 @@ scikit-learn==0.23.2
 matplotlib==3.3.3
 scipy==1.5.4
 surgeo==1.0.2
-nltk==3.5
+nltk==3.6.6
